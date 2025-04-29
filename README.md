@@ -1,1 +1,1 @@
-# json2excel
+修改文件中的输入输出文件名，在使用 python json_to_excel.py 运行
